@@ -1,6 +1,6 @@
 streamlit
+river==0.21.1
 matplotlib
 numpy
 pandas
 scikit-learn
-river
